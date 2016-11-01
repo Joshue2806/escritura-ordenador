@@ -6,13 +6,13 @@ El plan del libro es muy simple. Explica brevemente qué supone escribir con un 
 
 ## Descarga
 
-_Escritura con ordenador_ está casi terminado, pero de momento todavía habrá que esperar. Espero terminarlo cuanto antes para poderlo publicar —ponerlo a disposición del público— pronto.
+_Escritura con ordenador_ se ofrece gratuitamente en tres formatos:
 
-<!-- * [Documento ePub](https://archive.org/download/escritura-ordenador/escritura-ordenador.epub), compatible con lectores de libros electrónicos.
+* [Documento ePub](https://archive.org/download/escritura-ordenador/escritura-ordenador.epub), compatible con lectores de libros electrónicos.
 
 * [Documento AZW](https://archive.org/download/escritura-ordenador/escritura-ordenador.azw), compatible con lectores _Kindle_.
 
-* [Documento PDF](https://archive.org/download/escritura-ordenador/escritura-ordenador.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub. -->
+* [Documento PDF](https://archive.org/download/escritura-ordenador/escritura-ordenador.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
 
 Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/escritura-ordenador/issues/new).
 
@@ -65,11 +65,10 @@ Si piensas en donar algo, te lo agradezco infinitamente. Te pediría que dones a
 
 Además de necesidades para las que es necesario dinero, te pediría que considerases otro tipo de donación: tu tiempo. Seguro que entre la gente que conoces, hay alguien que necesita que le escuchen un rato. No cuesta apenas nada y ayudarás mucho a esa persona.
 
-<!-- ## Historial de versiones
+## Historial de versiones
 
 Las versiones se ordenan de mayor a menor. La clave es una referencia de publicación en un almacén `git` privado. Si esto último no entiendes qué es, no importa. Es sólo por seguridad.
 
 Versión | Modificaciones
 --------- | -----------------
-1.1       | Folleto nuevo en tamaño carta (clave `7807ded75e3d7e6c0f2f8a839dcd4eb29d0dbcc7`).
-1.0       | Primera versión publicada (clave `692268244faee41ec00d1c63494a7465908aca5a`). -->
+1.0       | Primera versión publicada (clave `fc0e50edd786ccb32dbf5b393e657d8534c18ce6`).
