@@ -1,6 +1,6 @@
 # Introducción
 
-Después de [_Ensayo sobre la escritura_](http://www.ensayo-escritura.tk), el libro que quería escribir era una ayuda de cómo había escrito el libro anterior. Es sobre _Como la informática ayuda a la literatura_.
+Después de [_Ensayo sobre la escritura_](http://www.ensayo-escritura.tk), el libro que quería escribir era una ayuda de cómo había escrito el libro anterior. Es sobre _Cómo la informática ayuda a la literatura_.
 
 El plan del libro es muy simple. Explica brevemente qué supone escribir con un ordenador. Sí, desde una perspectiva que la mayoría de la gente no considera. Luego, explica presenta un programa de —`pandoc`—, del que se explica su uso para generar documentos ePub. Por si existen dudas, es el formato estándar de libros electrónicos.
 
@@ -12,7 +12,11 @@ _Escritura con ordenador_ se ofrece gratuitamente en tres formatos:
 
 * [Documento AZW](https://archive.org/download/escritura-ordenador/escritura-ordenador.azw), compatible con lectores _Kindle_.
 
-* [Documento PDF](https://archive.org/download/escritura-ordenador/escritura-ordenador.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
+* Documento PDF listo para impresión: [tamaño DIN A4](https://archive.org/download/escritura-ordenador/escritura-ordenador_A4-folleto.pdf) y [tamaño carta](https://archive.org/download/escritura-ordenador/escritura-ordenador_carta-folleto.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
+
+    El tamaño DIN A4 es el papel estándar en Europa y España.
+
+    El tamaño carta es el tamaño estándar en América y sus Estados Unidos.
 
 Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/escritura-ordenador/issues/new).
 
