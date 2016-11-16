@@ -77,5 +77,6 @@ Las versiones se ordenan de mayor a menor. La clave es una referencia de publica
 
 Versión | Modificaciones
 --------- | -----------------
-1.1       | Pequeñas correcciones y PDF para pantalla (clave `86918f1f02196325cc30c802aff1bbe1718de62d`).
-1.0       | Primera versión publicada (clave `fc0e50edd786ccb32dbf5b393e657d8534c18ce6`).
+1.1       | Corrección de errores tontos (clave `570a41f`).
+1.1       | Pequeñas correcciones y PDF para pantalla (clave `86918f1`).
+1.0       | Primera versión publicada (clave `fc0e50e`).
