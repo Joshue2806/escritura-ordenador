@@ -12,11 +12,13 @@ _Escritura con ordenador_ se ofrece gratuitamente en tres formatos:
 
 * [Documento AZW](https://archive.org/download/escritura-ordenador/escritura-ordenador.azw), compatible con lectores _Kindle_.
 
-* Documento PDF listo para impresión: [tamaño DIN A4](https://archive.org/download/escritura-ordenador/escritura-ordenador_A4-folleto.pdf) y [tamaño carta](https://archive.org/download/escritura-ordenador/escritura-ordenador_carta-folleto.pdf), no está pensado para leer en pantalla, sino directamente para impresión en formato libro. Para leer en pantalla usa el formato ePub.
+* Documento PDF para impresión: [tamaño DIN A4](https://archive.org/download/escritura-ordenador/escritura-ordenador_A4-folleto.pdf) y [tamaño carta](https://archive.org/download/escritura-ordenador/escritura-ordenador_carta-folleto.pdf). Está compuesto como un folleto, no está pensado para leer en pantalla, sino directamente para impresión como un libro. Para leer en pantalla usa el formato ePub o la siguiente versión en formato PDF.
 
     El tamaño DIN A4 es el papel estándar en Europa y España.
 
     El tamaño carta es el tamaño estándar en América y sus Estados Unidos.
+
+* Documento PDF para visualización en pantalla: [tamaño DIN A4](https://archive.org/download/escritura-ordenador/escritura-ordenador_A4.pdf) y [tamaño carta](https://archive.org/download/escritura-ordenador/escritura-ordenador_carta.pdf). No aconsejo imprimirlo. Para imprimir, mejor usar la versión anterior.
 
 Si encuentras algún fallo o tienes alguna sugerencia sobre los archivos, abre por favor [una incidencia](https://github.com/ousia/escritura-ordenador/issues/new).
 
@@ -75,4 +77,5 @@ Las versiones se ordenan de mayor a menor. La clave es una referencia de publica
 
 Versión | Modificaciones
 --------- | -----------------
+1.1       | Pequeñas correcciones y PDF para pantalla (clave `86918f1f02196325cc30c802aff1bbe1718de62d`).
 1.0       | Primera versión publicada (clave `fc0e50edd786ccb32dbf5b393e657d8534c18ce6`).
