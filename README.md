@@ -12,7 +12,7 @@ _Escritura con ordenador_ se ofrece gratuitamente en tres formatos:
 
 * [Documento AZW](https://archive.org/download/escritura-ordenador/escritura-ordenador.azw), compatible con lectores _Kindle_.
 
-* Documento PDF para impresión: [tamaño DIN A4](https://archive.org/download/escritura-ordenador/escritura-ordenador_A4-folleto.pdf) y [tamaño carta](https://archive.org/download/escritura-ordenador/escritura-ordenador_carta-folleto.pdf). Está compuesto como un folleto, no está pensado para leer en pantalla, sino directamente para impresión como un libro. Para leer en pantalla usa el formato ePub o la siguiente versión en formato PDF.
+* Documento PDF para impresión: [tamaño DIN A4](https://archive.org/download/escritura-ordenador/escritura-ordenador_A4-folleto.pdf) y [tamaño carta](https://archive.org/download/escritura-ordenador/escritura-ordenador_carta-folleto.pdf). Está compuesto como un folleto, no está pensado para leer en pantalla, sino para impresión como libro. Para leer en pantalla usa el formato ePub o la siguiente versión en formato PDF.
 
     El tamaño DIN A4 es el papel estándar en Europa y España.
 
