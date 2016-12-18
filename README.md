@@ -1,7 +1,7 @@
 ---
+permalink: index.html
 title: Escritura con ordenador
 subtitle: Cómo la informática ayuda a la literatura
-permalink: index.html
 ---
 
 # Introducción
