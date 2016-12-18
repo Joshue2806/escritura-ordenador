@@ -1,11 +1,11 @@
 ---
-permalink: index.html
 title: Escritura con ordenador
 subtitle: Cómo la informática ayuda a la literatura
 ---
 
 # Introducción
 
+permalink: index.html
 Después de [_Ensayo sobre la escritura_](http://www.ensayo-escritura.tk), el libro que quería escribir era una ayuda de cómo había escrito el libro anterior. Es sobre _Cómo la informática ayuda a la literatura_.
 
 El plan del libro es muy simple. Explica brevemente qué supone escribir con un ordenador. Desde una perspectiva que la mayoría de la gente no considera habitualmente. Después de la introducción téorica, se aborda `pandoc`, un programa de conversión entre diferentes formatos de texto. En estas páginas sólo se explica el modo de generar documentos ePub —el formato estándar de libros electrónicos—.
