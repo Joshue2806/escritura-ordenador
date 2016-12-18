@@ -12,7 +12,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <title>{{ site.title | default: site.github.repository_name }} — {{ site.author }}</title>
   </head>
 
   <body>
@@ -48,7 +48,7 @@
           {% endif %}
 
           {% if site.github.is_project_page %}
-            <p class="repo-owner"><em><a href="{{ site.github.repository_url }}">{{ site.title }}</a></em> es una creación de <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+            <p class="repo-owner"><em><a href="{{ site.github.repository_url }}">{{ site.title }}</a></em> es una creación de <a href="{{ site.github.owner_url }}">{{ site.author }}</a>.</p>
           {% endif %}
 
           <p>Esta página la ha generado <a href="https://pages.github.com">GitHub Pages</a>.</p>
