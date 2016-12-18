@@ -1,3 +1,8 @@
+---
+title: Escritura con ordenador
+author: Pablo Rodríguez
+---
+
 # Introducción
 
 Después de [_Ensayo sobre la escritura_](http://www.ensayo-escritura.tk), el libro que quería escribir era una ayuda de cómo había escrito el libro anterior. Es sobre _Cómo la informática ayuda a la literatura_.
