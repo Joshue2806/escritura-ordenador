@@ -77,6 +77,7 @@ Las versiones se ordenan de mayor a menor. La clave es una referencia de publica
 
 Versión | Modificaciones
 --------- | -----------------
+1.3       | Correcciones varias (clave `b8c20e4`).
 1.2       | Subsecciones numeradas y correcciones (clave `bbc0720`).
 1.1.1     | Corrección de errores tontos (clave `570a41f`).
 1.1       | Pequeñas correcciones y PDF para pantalla (clave `86918f1`).
