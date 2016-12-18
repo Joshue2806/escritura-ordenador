@@ -1,6 +1,5 @@
 ---
 title: Escritura con ordenador
-author: Pablo Rodríguez
 ---
 
 # Introducción
