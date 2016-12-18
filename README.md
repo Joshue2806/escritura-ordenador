@@ -1,6 +1,6 @@
 ---
 title: Escritura con ordenador
-subtitle: Cómo la informática ayuda a la literatura
+author: Pablo Rodríguez
 ---
 
 # Introducción
